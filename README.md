@@ -1,6 +1,6 @@
-# vux-demo
+# p2p 移动端项目
 
-> A Vue.js project
+> 
 
 ## Build Setup
 
