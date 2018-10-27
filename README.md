@@ -1,7 +1,8 @@
-# 移动端项目
-
+# vux-fund
+ > Mobile terminal project, Preview address: [Transmission gate](https://cryingbat.github.io/vux-fund/ )  Please access the connection directly on the mobile terminal.
 > 
-## 技术栈
+## technology stack
+
 - vue v2.5.x
 - vuex 2.5.x
 - vux 2.2.x 移动端ui组件库
@@ -25,6 +26,10 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+
+## version
+> npm: v6.1.0  
+node: v10.5.0  
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
