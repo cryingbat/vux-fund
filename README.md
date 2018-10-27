@@ -12,16 +12,16 @@
 - ...
 
 ## screenshort
-![](https://github.com/cryingbat/vux-fund/raw/master/screenshorts/_20181027211240.jpg)
-![](https://github.com/cryingbat/vux-fund/raw/master/screenshorts/_20181027211302.jpg)
-![](https://github.com/cryingbat/vux-fund/raw/master/screenshorts/_20181027211313.jpg)
-![](https://github.com/cryingbat/vux-fund/raw/master/screenshorts/_20181027211320.jpg)
-![](https://github.com/cryingbat/vux-fund/raw/master/screenshorts/_20181027211331.jpg)
-![](https://github.com/cryingbat/vux-fund/raw/master/screenshorts/_20181027211337.jpg)
-![](https://github.com/cryingbat/vux-fund/raw/master/screenshorts/598182737714035603.jpg)
-![](https://github.com/cryingbat/vux-fund/raw/master/screenshorts/611262941291943940.jpg)
-![](https://github.com/cryingbat/vux-fund/raw/master/screenshorts/_20181027211343.jpg)
-![](https://github.com/cryingbat/vux-fund/raw/master/screenshorts/_20181027211349.jpg)
+![](https://github.com/cryingbat/vux-fund/raw/master/screenshort/_20181027211240.jpg)
+![](https://github.com/cryingbat/vux-fund/raw/master/screenshort/_20181027211302.jpg)
+![](https://github.com/cryingbat/vux-fund/raw/master/screenshort/_20181027211313.jpg)
+![](https://github.com/cryingbat/vux-fund/raw/master/screenshort/_20181027211320.jpg)
+![](https://github.com/cryingbat/vux-fund/raw/master/screenshort/_20181027211331.jpg)
+![](https://github.com/cryingbat/vux-fund/raw/master/screenshort/_20181027211337.jpg)
+![](https://github.com/cryingbat/vux-fund/raw/master/screenshort/598182737714035603.jpg)
+![](https://github.com/cryingbat/vux-fund/raw/master/screenshort/611262941291943940.jpg)
+![](https://github.com/cryingbat/vux-fund/raw/master/screenshort/_20181027211343.jpg)
+![](https://github.com/cryingbat/vux-fund/raw/master/screenshort/_20181027211349.jpg)
 
 ## Build Setup
 
