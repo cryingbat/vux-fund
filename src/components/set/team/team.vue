@@ -39,7 +39,7 @@ export default {
             name: "加载中...",
             showLoad: false,
             status: true,
-            imgUrl: "../../../../static/u609.png"
+            imgUrl: "static/u609.png"
         };
     },
     components: {
@@ -71,7 +71,7 @@ export default {
                         for (let i = 0; i < res.data.length; i++) {
                             if (res.data.header_url === "") {
                                 res.data.header_url =
-                                    "../../../../static/u414.png";
+                                    "static/u414.png";
                             }
                         }
                     }

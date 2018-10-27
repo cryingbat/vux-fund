@@ -38,8 +38,8 @@ export default {
     },
     data() {
         return {
-            icon_phone: "../../../static/u1139.png",
-            icon_clock: "../../../static/u1143.png",
+            icon_phone: "static/u1139.png",
+            icon_clock: "static/u1143.png",
             phone: "",
             phone_null_tip: false,
             phone_err_tip: false,

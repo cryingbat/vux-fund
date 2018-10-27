@@ -15,7 +15,7 @@ import { Tab, TabItem } from 'vux'
 		data () {
 		    return {
 		      change: 0,
-		      imgUrl: '../../../../../static/u609.png'
+		      imgUrl: 'static/u609.png'
 		    }
 		},
 	  	components: {

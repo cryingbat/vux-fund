@@ -67,7 +67,7 @@ export default {
       showLoad: false,
       returnImg : "",
       reupload: false,
-      imgUrl: '../../static/u609.png'
+      imgUrl: 'static/u609.png'
     }
   },
   mounted() {

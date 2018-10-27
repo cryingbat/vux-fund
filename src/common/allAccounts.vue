@@ -45,9 +45,9 @@
 		},
 		data() {
 			return {
-				imgIcon:['../../static/buy.png', '../../static/sell.png'],
-    			env: '../../../static/u25.png',
-    			stateImg:['../../static/wp.png', '../../static/bf.png', '../../static/pp.png', '../../static/js.png', '../../static/dj.png']
+				imgIcon:['static/buy.png', 'static/sell.png'],
+    			env: 'static/u25.png',
+    			stateImg:['static/wp.png', 'static/bf.png', 'static/pp.png', 'static/js.png', 'static/dj.png']
 			}
 		},
 		methods: {

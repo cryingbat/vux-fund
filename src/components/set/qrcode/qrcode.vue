@@ -13,8 +13,8 @@
 	export default {
 		data() {
 			return {
-				qrcodeImg: '../../../../static/wechat.jpg',
-				imgUrl: '../../../../static/u609.png',
+				qrcodeImg: 'static/wechat.jpg',
+				imgUrl: 'static/u609.png',
 			}
 		},
 		methods: {

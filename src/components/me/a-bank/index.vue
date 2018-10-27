@@ -27,7 +27,7 @@ export default {
   data() {
     return {
       info:{},
-      imgUrl: '../../../static/u404.png',
+      imgUrl: 'static/u404.png',
       title: '理财收益',
       show:false,
       word: '0.00'

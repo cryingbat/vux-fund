@@ -35,7 +35,7 @@ import { accountSave }  from '@/api/index'
 				username: '',
 				num: '',
 				belong: '',
-				imgUrl: '../../../../static/u609.png'
+				imgUrl: 'static/u609.png'
 			}
 		},
 		methods: {

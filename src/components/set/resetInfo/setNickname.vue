@@ -13,7 +13,7 @@ import { nicknameSave } from "@/api/index";
 export default {
     data() {
         return {
-            imgUrl: "../../../../../static/u609.png",
+            imgUrl: "static/u609.png",
             nick: ""
         };
     },

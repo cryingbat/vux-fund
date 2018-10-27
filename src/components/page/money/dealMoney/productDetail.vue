@@ -8,8 +8,8 @@
 export default {
     data() {
         return {
-            imgUrl: "../../../../../static/u609.png",
-            bg: "../../../../../static/bg.png"
+            imgUrl: "static/u609.png",
+            bg: "static/bg.png"
         };
     },
     methods: {

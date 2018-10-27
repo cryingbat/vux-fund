@@ -54,10 +54,10 @@ import moment from 'moment'
 				page: '0',
 				showLoad: false,
 				status: true,
-				env: '../../static/over.png',
+				env: 'static/over.png',
 				name:'加载中...',
-				imgIcon:['../../static/buy.png', '../../static/sell.png'],
-				imgSrc:['../../static/wp.png', '../../static/bf.png', '../../static/pp.png', '../../static/js.png', '../../static/dj.png']
+				imgIcon:['static/buy.png', 'static/sell.png'],
+				imgSrc:['static/wp.png', 'static/bf.png', 'static/pp.png', 'static/js.png', 'static/dj.png']
 			}
 		},
 		components: {

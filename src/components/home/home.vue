@@ -3,15 +3,15 @@
         <router-view></router-view>
         <tabbar class='bottom-tab'>
             <tabbar-item selected link="/home/page/zdinfo">
-                <img slot="icon" src="../../../static/page.png">
+                <img slot="icon" src="static/page.png">
                 <span slot="label">首页</span>
             </tabbar-item>
             <tabbar-item link="/home/me/b-bank">
-                <img slot="icon" src="../../../static/me.png">
+                <img slot="icon" src="static/me.png">
                 <span slot="label">我的</span>
             </tabbar-item>
             <tabbar-item link="/home/set">
-                <img slot="icon" src="../../../static/set.png">
+                <img slot="icon" src="static/set.png">
                 <span slot="label">设置</span>
             </tabbar-item>
         </tabbar>

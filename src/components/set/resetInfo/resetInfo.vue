@@ -4,7 +4,7 @@
 		<header class="head"><img :src="imgUrl" style='padding:0 10px 5px 6px;' width="12" height="24" alt="" @click='goBack'>修改资料</header>
 		<group label-width="2.5em" label-margin-right="2em" label-align="right">
 	     <cell title="头像" is-link @click.native='setAvatar' style='padding: 20px 15px;'></cell>
-	     <img class="avatar" src="../../../../static/u414.png" width='40' height="40" alt="">
+	     <img class="avatar" src="static/u414.png" width='40' height="40" alt="">
 	    </group>
 	    <group label-width="2.5em" label-margin-right="2em" label-align="right">
 	     <cell title="昵称" is-link @click.native='setName' :value="info.nickname"></cell>
@@ -20,11 +20,11 @@ import axios from 'axios'
 		data() {
 			return {
 				info: {
-					header_url : '../../../../static/loading.svg',
+					header_url : 'static/loading.svg',
 					nickname: 'cryingabt',
 				},
 				show: false,
-				imgUrl: '../../../../static/u609.png',
+				imgUrl: 'static/u609.png',
 			}
 		},
 		components: {
@@ -47,7 +47,7 @@ import axios from 'axios'
 				this.$router.push({
 					name: 'avatar',
 					params: {
-						url: this.info.nickname ? this.info.header_url : '../../../../static/u414.png'
+						url: this.info.nickname ? this.info.header_url : 'static/u414.png'
 					}
 				})
 			},

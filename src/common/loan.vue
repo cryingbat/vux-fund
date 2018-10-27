@@ -30,7 +30,7 @@
 		},
 		data() {
 			return {
-				imgUrl: ['../../static/u118.png', '../../static/u17.png', '../../static/close.png']
+				imgUrl: ['static/u118.png', 'static/u17.png', 'static/close.png']
 			}
 		},
 		methods: {

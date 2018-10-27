@@ -22,7 +22,7 @@ export default {
       disabledStates: true,
       in_money: '',
       show: false,
-      imgUrl: '../../../../../static/u609.png'
+      imgUrl: 'static/u609.png'
     }
   },
   mounted() {

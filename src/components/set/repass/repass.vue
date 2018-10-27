@@ -29,7 +29,7 @@ export default {
             rpass_null: false,
             oldpass: "",
             password: "",
-            imgUrl: "../../../../static/u609.png"
+            imgUrl: "static/u609.png"
         };
     },
     methods: {

@@ -44,7 +44,7 @@ export default {
             page: "0",
             status: true,
             next: [],
-            imgUrl: "../../../../../static/u609.png"
+            imgUrl: "static/u609.png"
         };
     },
     methods: {

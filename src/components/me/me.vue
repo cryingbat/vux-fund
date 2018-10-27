@@ -56,7 +56,7 @@ export default {
       userInfo().then((res) => {
         if(res.succ>0){
           if(res.data.header_url === ''){
-              res.data.header_url = '../../../../static/u414.png';
+              res.data.header_url = 'static/u414.png';
           }
           this.info = res.data;
         }else{
@@ -75,13 +75,13 @@ export default {
   data () {
     return {
       info: {
-        header_url :'../../../../static/loading.svg'
+        header_url :'static/loading.svg'
       },
       title: '我的',
       change: 0,    
-      arror: '../../../static/right-arrow_03.png',
-      imgsrc: '../../../static/u453.png',
-      avatar: '../../../static/u414.png',
+      arror: 'static/right-arrow_03.png',
+      imgsrc: 'static/u453.png',
+      avatar: 'static/u414.png',
       subTitle: ['资产', '余利宝']
     }
   }

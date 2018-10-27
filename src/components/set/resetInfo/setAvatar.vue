@@ -44,8 +44,8 @@ import { setTimeout } from 'timers';
 		  },
 		data() {
 			return {
-				imgUrl: '../../../../../static/u609.png',
-				imgLink: '../../../../../static/more.png',
+				imgUrl: 'static/u609.png',
+				imgLink: 'static/more.png',
 				show: false,
 				crap: false,
 				realy: false,

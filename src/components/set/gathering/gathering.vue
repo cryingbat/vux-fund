@@ -20,7 +20,7 @@ import { account }  from '@/api/index'
 		data() {
 			return {
 				acc: [],
-				imgUrl: '../../../../static/u609.png'
+				imgUrl: 'static/u609.png'
 			}
 		},
 		methods: {

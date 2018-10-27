@@ -26,7 +26,7 @@ export default {
             money_err: false,
             money: "",
             show2: false,
-            imgUrl: "../../../../../static/u609.png"
+            imgUrl: "static/u609.png"
         };
     },
     mounted() {

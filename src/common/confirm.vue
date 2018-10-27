@@ -24,7 +24,7 @@ export default {
         return {
             showTip: false,
             in_verify: "",
-            bgImg: "../../static/u1152.png"
+            bgImg: "static/u1152.png"
         };
     },
     methods: {

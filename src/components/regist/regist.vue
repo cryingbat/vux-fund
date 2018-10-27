@@ -55,12 +55,12 @@ export default {
     data() {
         return {
             imgUrl: "api.php/home/user/referee",
-            icon_phone: "../../../static/u1139.png",
-            icon_pro: "../../../static/u1209.png",
-            icon_user: "../../../static/u1207.png",
-            icon_clock: "../../../static/u1143.png",
-            icon_rclock: "../../../static/u1203.png",
-            icon_topUser: "../../../static/u1205.png",
+            icon_phone: "static/u1139.png",
+            icon_pro: "static/u1209.png",
+            icon_user: "static/u1207.png",
+            icon_clock: "static/u1143.png",
+            icon_rclock: "static/u1203.png",
+            icon_topUser: "static/u1205.png",
             nickname: "",
             tuiname: "",
             phone: "",

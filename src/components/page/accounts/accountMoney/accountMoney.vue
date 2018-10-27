@@ -29,7 +29,7 @@ export default {
             num: "",
             show2: false,
             disabledState: true,
-            imgUrl: "../../../../../static/u609.png"
+            imgUrl: "static/u609.png"
         };
     },
 

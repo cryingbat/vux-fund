@@ -59,16 +59,16 @@ export default {
             nextOrder: [],
             name: "加载中...",
             time: 0,
-            env: "../../static/over.png",
+            env: "static/over.png",
             showLoad: false,
             status: true,
-            imgIcon: ["../../static/buy.png", "../../static/sell.png"],
+            imgIcon: ["static/buy.png", "static/sell.png"],
             imgSrc: [
-                "../../static/wp.png",
-                "../../static/bf.png",
-                "../../static/pp.png",
-                "../../static/js.png",
-                "../../static/dj.png"
+                "static/wp.png",
+                "static/bf.png",
+                "static/pp.png",
+                "static/js.png",
+                "static/dj.png"
             ]
         };
     },

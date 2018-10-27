@@ -29,8 +29,8 @@ export default {
  data() {
   return {
     show: false,
-    logo: '../../../static/logo.png',
-    stateImg: ['../../../static/accountInfo.png', '../../../static/loanInfo.png', '../../../static/allInfo.png']
+    logo: 'static/logo.png',
+    stateImg: ['static/accountInfo.png', 'static/loanInfo.png', 'static/allInfo.png']
   }
  },
  methods: {

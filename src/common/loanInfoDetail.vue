@@ -63,7 +63,7 @@ directives: {
       show: false,
       returnImg : "",
       status: '',
-      imgUrl: '../../static/u609.png'
+      imgUrl: 'static/u609.png'
     }
   },
   mounted() {

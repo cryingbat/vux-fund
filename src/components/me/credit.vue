@@ -54,13 +54,13 @@ import { credit } from '@/api/index'
 		data() {
 			return {
 				personCredit: {
-					header_url: '../../../../static/loading.svg',
+					header_url: 'static/loading.svg',
 				},
 				percent2: 0,
 				percent3: 0,
-				status: ['../../../../static/1.png','../../../../static/2.png','../../../../static/3.png','../../../../static/4.png','../../../../static/5.png','../../../../static/6.png','../../../../static/7.png','../../../../static/8.png','../../../../static/9.png','../../../../static/10.png','../../../../static/11.png','../../../../static/12.png','../../../../static/13.png','../../../../static/14.png','../../../../static/15.png','../../../../static/16.png','../../../../static/17.png','../../../../static/18.png','../../../../static/19.png','../../../../static/20.png'],
-				bgImg: '../../../../static/logo.png',
-				imgUrl: '../../../../static/u609.png',
+				status: ['static/1.png','static/2.png','static/3.png','static/4.png','static/5.png','static/6.png','static/7.png','static/8.png','static/9.png','static/10.png','static/11.png','static/12.png','static/13.png','static/14.png','static/15.png','static/16.png','static/17.png','static/18.png','static/19.png','static/20.png'],
+				bgImg: 'static/logo.png',
+				imgUrl: 'static/u609.png',
 				preNum: 0,
 			}
 		},
@@ -79,7 +79,7 @@ import { credit } from '@/api/index'
 				credit().then((res) => {
 					if(res.succ>0){
 						if(res.data.header_url === ''){
-				            res.data.header_url = '../../../../static/u414.png';
+				            res.data.header_url = 'static/u414.png';
 				        }
 				        res.data.credit_money = parseInt(res.data.credit_money);
 
