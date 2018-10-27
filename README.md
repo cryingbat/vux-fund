@@ -19,7 +19,6 @@
 ![](https://github.com/cryingbat/vux-fund/raw/master/screenshort/_20181027211331.jpg)
 ![](https://github.com/cryingbat/vux-fund/raw/master/screenshort/_20181027211337.jpg)
 ![](https://github.com/cryingbat/vux-fund/raw/master/screenshort/598182737714035603.jpg)
-![](https://github.com/cryingbat/vux-fund/raw/master/screenshort/611262941291943940.jpg)
 ![](https://github.com/cryingbat/vux-fund/raw/master/screenshort/_20181027211343.jpg)
 ![](https://github.com/cryingbat/vux-fund/raw/master/screenshort/_20181027211349.jpg)
 
